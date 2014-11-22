@@ -1,0 +1,68 @@
+.navbar-red { 
+	background: black;
+	border-radius: 10px;
+}
+body {
+	background: url("http://hipermedula.org/wp-content/uploads/2013/07/encuentro_gestion_cultural_obregon_sonora_mexico_octubre_20131.jpg");
+	background-size: cover;	
+}
+p {
+	text-align: center;
+	font-family: helvetica;
+}
+h3 {
+	color: black;
+}
+input {
+	background: black;
+	color:red;
+	position: center;
+	padding: 8px;
+	font-size: 18px;
+	border: 5px solid black;
+	border-radius: 3px;
+}
+input[type="submit"] {
+
+	background: black;
+	color: red;
+	border-radius: 5px;
+}
+img {
+ 	position: relative;
+ 	width: 100px;
+ 	height: 100px;
+ 	left: 630px;
+ 	top: 10px;
+ 	border: 3px solid black;
+ 	border-radius: 10px;
+}
+
+ul {
+	text-align: center;
+	font-family: helvetica;
+	font-size: 20px;
+	color: red;
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+     
+    }
+li {
+	display: inline;
+    padding: 120px ;
+    }   
+div { 
+	background: url("http://elhorizonte.mx/foto/390000/393261_cocina-molecular_mlm-f-2708027722_052012.jpg");
+  	height: 180px;
+  	background-position: center;
+  	background-size: cover;
+  	margin: 0 auto;
+  	max-width: 800px;
+  	color: black;
+  	text-align: left;	
+  	border-radius: 10px;
+  	}
+  	div h3{
+  		text-align: center;
+		color: black;
+  	}    
