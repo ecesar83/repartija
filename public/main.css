@@ -52,8 +52,8 @@ li {
     padding: 120px ;
     }   
 div { 
-	background: url("http://elhorizonte.mx/foto/390000/393261_cocina-molecular_mlm-f-2708027722_052012.jpg");
-  	height: 180px;
+	background: rgba(0,0,0,0.5);
+  	height: 280px;
   	background-position: center;
   	background-size: cover;
   	margin: 0 auto;
@@ -66,3 +66,7 @@ div {
   		text-align: center;
 		color: black;
   	}    
+
+  	h4 {
+  		text-align: center;
+  	}
