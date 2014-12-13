@@ -4,7 +4,7 @@ app.set('view engine', 'ejs');
 app.use('/public', express.static(__dirname+'/public'))
 
 app.get('/login', function (req, res) {
-  res.render('cesar');
+  res.render('login');
 })
 
 app.get('/cuenta', function(req, res){
